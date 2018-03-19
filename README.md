@@ -28,7 +28,7 @@
    +  ACCESS_TOKEN = *and so on*
    +  ACCESS_TOKEN_SECRET = *and so on*
 
- * if all else fails to email me or plug in the api keys in the controller.
+ * if all else fails, email me or plug in the api keys in the controller.
 
 
 
