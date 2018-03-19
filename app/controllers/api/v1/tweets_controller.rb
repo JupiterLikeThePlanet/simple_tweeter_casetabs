@@ -39,7 +39,7 @@ class Api::V1::TweetsController < ApplicationController
 
     end
 
-    @tweets = @client.user_timeline('jupiterbaudot', count: 20)
+    @tweets = @client.user_timeline('casetabs', count: 20)
 
     @tweets_arr = []
 
