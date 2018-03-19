@@ -18,7 +18,7 @@
 
 * In your browser, go to `http://localhost:3000/`
 
-### API keys
+### Being Very Secretive with the API keys
 
  * I used the dotenv method, documentation here: https://github.com/bkeepers/dotenv
 
