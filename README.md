@@ -23,7 +23,6 @@
  * I used the dotenv method, documentation here: https://github.com/bkeepers/dotenv
 
  * In the .env file, enter:
-   + CONSUMER_API_KEY=
    +  CONSUMER_API_KEY = *Your API Key here*
    +  CONSUMER_API_SECRET = *Your API Secret Key here*
    +  ACCESS_TOKEN = *and so on*
